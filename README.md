@@ -3,8 +3,8 @@
 ## Setup
 A version of the SE-VCAE that is ready to run out-of-the-box is available in this git repository, which includes:
 
- - The python scripts described in Section \ref{sec:documentation}.
- - The pre-trained SE-VCAE model.
+ - The python scripts described in below.
+ - The pre-trained SE-VCAE model (available at: https://www.dropbox.com/sh/o252isrv2eh7bdl/AAB0B7NpTY0XMq3x8_6tM7Tja?dl=0).
  - The noisy testing set.
  - The enhanced version of the noisy training set (using the pre-trained model included).
 
